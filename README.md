@@ -3,7 +3,7 @@
 ## Overview
 This is the primary code repository for reproducing analyses in Juan Ramon, Parmar, and Carrasco-Zevallos et al. 2024: "Development and deployment of a histopathology-based deep learning algorithm for patient prescreening in a clinical trial".
 
-You can read the full publication in Nature (publication pending)
+You can read the full publication in Nature (Accepted; Publication pending)
 
 ## Contents
 1. `/scripts` contains all Python code used to produce content in `/figures` from `/data`
@@ -95,4 +95,3 @@ Licensor and You agree as follows:
 4.7	“Use” means to use (or have used), copy (or have copied), modify (or have modified), and/or merge (or have merged). 
 
 4.8	“You” means any individual or entity obtaining a copy of the Software and/or the Data and exercising any rights under these Terms of Use.  Your has a corresponding meaning.
-# FGFR_Device_Review
